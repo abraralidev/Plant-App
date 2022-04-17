@@ -75,15 +75,8 @@ class _Custom_DrawerState extends State<Custom_Drawer> {
                   height: 20,
                 ),
                 Drawer_Items(
-                    name: "Men's Collection",
+                    name: "Plant Collection",
                     icon: Icons.collections_outlined,
-                    onPressed: () {}),
-                const SizedBox(
-                  height: 20,
-                ),
-                Drawer_Items(
-                    name: "Shoes Collection",
-                    icon: Icons.shopping_basket_outlined,
                     onPressed: () {}),
                 const SizedBox(
                   height: 20,
