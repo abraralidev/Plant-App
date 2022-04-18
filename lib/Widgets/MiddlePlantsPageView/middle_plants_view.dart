@@ -3,10 +3,10 @@ import 'package:animate_do/animate_do.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:plantapp/Pages/Details_Page/details.dart';
 import 'package:plantapp/controllers/plant_controller.dart';
 import 'package:plantapp/controllers/switch_controller.dart';
 import 'package:plantapp/controllers/wallet_controller.dart';
-import 'package:plantapp/pages/details.dart';
 import 'package:plantapp/utils/constanst.dart';
 
 class MiddlePlantsPageView extends StatelessWidget {

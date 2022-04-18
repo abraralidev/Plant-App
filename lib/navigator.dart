@@ -2,9 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:line_icons/line_icons.dart';
 import 'package:custom_navigation_bar/custom_navigation_bar.dart';
+import 'package:plantapp/Pages/Messenger_page/messenger.dart';
 import 'package:plantapp/Pages/Profile_Page/profile.dart';
 import 'pages/Home_page/home.dart';
-import '../pages/messenger.dart';
+
 import 'pages/Wallet_page.dart/wallet.dart';
 import '../controllers/navigator_controllers.dart';
 
