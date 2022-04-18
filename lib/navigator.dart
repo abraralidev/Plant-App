@@ -6,7 +6,7 @@ import 'package:custom_navigation_bar/custom_navigation_bar.dart';
 import '../pages/home.dart';
 import '../pages/messenger.dart';
 import '../pages/profile.dart';
-import '../pages/wallet.dart';
+import 'pages/Wallet_page.dart/wallet.dart';
 import '../controllers/navigator_controllers.dart';
 
 class MainNavigator extends StatelessWidget {
