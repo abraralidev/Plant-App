@@ -5,7 +5,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:plantapp/Screens/SignIn/sign_in.dart';
-import 'package:plantapp/Widgets/Custom/Custom_Drawer/drawer_items.dart';
+import 'package:plantapp/Widgets/Custom_Widgets/Custom_Drawer/drawer_items.dart';
 import 'package:plantapp/model/user_model.dart';
 
 class Custom_Drawer extends StatefulWidget {
